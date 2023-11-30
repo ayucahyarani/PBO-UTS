@@ -1,0 +1,10 @@
+Gui.Tambah$9
+Gui.Tambah$8
+Gui.Tambah$7
+Gui.Tambah$6
+Gui.Tambah$5
+Gui.Tambah$4
+Gui.Tambah$3
+Gui.Tambah
+Gui.Tambah$2
+Gui.Tambah$1
